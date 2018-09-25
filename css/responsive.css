@@ -1,0 +1,195 @@
+@charset "utf-8";
+@media (max-width:3200px) and (min-width:2101px){
+	.main_content .container .row:first-child .col-sm-3{ width:13% !important;}
+	.main_content .container .row:first-child .col-sm-9{ width:87% !important; float: right !important;}
+}
+@media (max-width:2100px) and (min-width:1601px){
+	.main_content .container .row:first-child .col-sm-3{ width:13% !important;}
+	.main_content .container .row:first-child .col-sm-9{ width:81.95% !important; float: right !important;}
+}
+@media (max-width:1600px) and (min-width:1360px){
+	.main_content .container .row:first-child .col-sm-3{ width:13% !important;}
+	.main_content .container .row:first-child .col-sm-9{ width:75% !important; float: right !important;}
+}
+@media (max-width:1024px) {
+.main-login{width:40%!important;margin-top:10%}
+.nav-side-menu{width:270px!important;left:0}
+.strs{margin-top:20px;margin-left:25%}
+span.txt-style-4{font-size:13px}
+.top20{margin-top:35px}
+.bst{overflow-x:scroll}
+table.select,table.ctabel1{width:184.5%!important}
+.c-acc-status .form-group ul li{font-size:12px}
+.btss .col-sm-4{width:100%!important;margin-bottom:10px!important}
+.try .col-sm-offset-2{margin-left:6%!important}
+.try .col-sm-4{width:44%!important}
+.btsb .col-sm-offset-4{margin-left:25%!important}
+.btsb .col-sm-4{width:50%!important}
+ul.koi span{font-size:11px}
+.w50{width:70%!important}
+.ret{font-size:12px}
+.btse .col-sm-offset-2,.btse .col-sm-offset-4{margin-left:0!important}
+.btse .col-lg-4{margin-bottom:15px!important}
+.tre .col-sm-6{float:none!important;width:100%!important}
+.spacetop{margin-top:0!important}
+.scd{overflow-x:scroll}
+.popin,.bst{margin-bottom:12%; padding:0 !important;}
+table#viewAdministrator{width:162%!important}
+.ios1{float:left;height:32px!important}
+a.add_button{float:left;margin-top:0!important;width:40px!important}
+.frog table.ctabel1{width:173.5%!important}
+.test3 table#viewAdministrator{width:146.8%!important}
+.fusioncharts-container,.i00 img{min-width:100%}
+.test1 table.ctabel1{width:224.5%!important}
+.test2 table.ctabel1{width:384.5%!important}
+.bst{border:1px #CCC solid}
+.test4 .bst{border:none}
+.pad0{padding:0!important}
+a.test5{ margin:0 auto !important; width:100px !important; float: none !important; display:block !important;}
+.mfg{ margin-bottom:20px !important;}
+.dash-button, a.yl-bt{ font-size:11px !important;}
+.bts .step1{ width:40% !important; margin-left:13% !important;}
+.bts1 .col-sm-3{ width:50% !important;}
+.test4 table.ctabel1{ width:94% !important;}
+.pw_prompt{ width:auto !important}
+a.remove_button{ margin-top:0 !important;}
+#addmap_btn{ margin-bottom:20px !important;}
+}
+@media (max-width:768px) {
+.main-login{width:50%!important}
+.nav-side-menu{width:250px!important;left:0!important}
+.main_content .col-sm-9{width:65%!important;float:right!important}
+.main_content .col-sm-offset-4{margin-left:0!important}
+.c-dash-1{margin-bottom:15px}
+.spacetop{margin-top:0!important}
+.bts .col-sm-2,.bts .col-sm-4,.bts1 .col-sm-3{width:50%!important}
+.bts .col-sm-offset-2,.bts .col-sm-offset-8{margin-left:0!important}
+#map{max-width:100%!important}
+.sebs{overflow-x:scroll}
+.footer{left:0!important}
+.bst{overflow-x:scroll; padding:0 !important;}
+table.select,table.ctabel1{width:198%!important}
+.rr1{width:100%!important}
+.ios1{float:left;height:32px!important}
+a.add_button{float:left}
+.field_wrapper{padding-left:15px!important}
+ul.sas li:first-child,ul.sas li:nth-child(2),ul.sas li:nth-child(3),ul.sas li:nth-child(4),ul.sas li:nth-child(5),ul.sas li:nth-child(6){background-position-x:8%!important}
+.ert .col-sm-4{width:50%!important}
+.mga{margin:0 0 20px!important}
+.nav-side-menu{padding-left:10px}
+h1.txt-style-1{font-size:18px}
+.br1 .col-sm-9{width:50%!important;float:left!important}
+.br1 .col-sm-3{width:45%!important}
+.bts .btsa{width:70%!important}
+.bts .wap{width:100%!important}
+.dash-button{width:40%!important}
+.i100 img{max-width:100%}
+.mis .br1{margin-top:-30px!important}
+.f74{width:100%!important}
+.bts2 .col-sm-6{width:100%!important}
+ul.lft{float:none}
+ul.oop{width:100%!important}
+.mg45{margin-top:15px}
+.c-acc-status label{font-size:11px; display:block; margin-top:10px;}
+.tar{max-width:100%;width:100%;min-width:100%}
+a.fsm{font-size:11px!important}
+.bsts .col-sm-4{width:106%;float:none;margin-bottom:10px}
+.dso{display:block!important}
+.btss .col-sm-4,.dso input[type='text'],.dso select{width:100%!important;margin-bottom:10px!important}
+.roz .col-sm-6{float:none!important;width:103%!important}
+.w50{width:100%!important}
+.bstsss .col-sm-8,.bstsss .col-sm-4{width:100%!important;float:none!important}
+.btsd .col-sm-2,.btsd .col-sm-3,.btsd .col-sm-4{width:50%!important}
+span.txt-style-4{font-size:14px;display:block;margin-bottom:10px}
+.strs{margin-left:0}
+.bst{margin-bottom:15%}
+.test3 table#viewAdministrator{width:200.8%!important}
+.test2 .bst table.ctabel1{width:359%!important;border-right:1px #CCC solid!important}
+.test1 table.ctabel1{width:224.5%!important}
+.ter .col-sm-6{float:none!important;width:100%!important}
+#submit1{margin-bottom:20px!important}
+.bst{border:1px #CCC solid}
+.test4 .bst{border:none}
+.pad0{padding:0!important}
+a.test5{ margin:0 auto !important; width:100px !important; float: none !important; display:block !important;}
+.mfg{ margin-bottom:20px !important;}
+.dash-button, a.yl-bt{ font-size:11px !important;}
+.bts .step1{ float:none !important; width:240px !important; margin:0 auto !important;}
+.bts .step2{ float:none !important; width:240px !important; margin:0 auto !important;}
+#search{ margin-bottom:10px !important;}
+ul.sas li:nth-child(2){ font-size:11px !important;}
+.pw_prompt{ width:auto !important}
+a.remove_button{ margin-top:0 !important;}
+}
+@media (max-width:650px) and (min-width:480px) {
+.cbtns{width:100%}
+.footer{margin-top:5%!important;position:static!important}
+h1.txt-style-1{margin-top:80px}
+.pal0{padding-left:0!important}
+.main_content .col-sm-9{width:auto!important;float:none!important}
+.nav-side-menu{width:auto!important}
+.logo{text-align:center!important;margin-top:10px!important}
+.footer{left:0!important}
+}
+@media (max-width:479px) and (min-width:200px) {
+.main-login{width:94%!important; margin-top:2% !important;}
+.main_content .col-sm-9{width:auto!important;float:none!important;position:static!important}
+h1.txt-style-1{margin-top:23%!important}
+.nav-side-menu{margin-top:14px!important;width:100%!important}
+.logo{margin-top:10px}
+.btse .col-lg-4:last-child{margin-bottom:30px!important}
+.bts .col-sm-2,.bts .col-sm-4,.bts1 .col-sm-3{width:75%!important}
+.bst{margin-bottom:20px}
+#addmap_btn{width:100%!important}
+h1.bn{margin-top:80px!important}
+.bts .col-sm-4 .ytu,.bts .col-sm-4 a.ytu{margin-bottom:0!important;margin-top:0!important}
+.bot20 .col-lg-4:last-child{margin-bottom:30px!important}
+.dash-button{width:100%!important}
+.archive_files ul li,.bts .col-sm-2,.bts .col-sm-4,.bts1 .col-sm-3{width:100%!important}
+.footer{font-size:11px!important}
+/*.c-acc-status .row button{margin-bottom:0px!important}*/
+.bst{ padding:0 !important;}
+.mg10{width:100%!important;display:block!important;float:none!important;margin-bottom:10px!important}
+.bts .col-sm-4 a{margin-bottom:20px!important}
+.pop .mg5{margin-top:70px!important}
+.pal0{padding-right:0!important}
+.br1 .col-sm-3{width:100%!important}
+.sz{width:100%!important;margin-bottom:20px!important}
+.field_wrapper ul .s4a{width:205px!important}
+a.add_button{margin-left:0!important}
+.mis h1.bn{margin-top:25px!important}
+.mis1 .nav-side-menu{top:0!important;margin-top:0!important}
+.cbtns{width:100%}
+.cbtns a.yl-bt:last-child{margin-bottom:60px!important}
+h1.txt-style-1{font-size:16px!important}
+.ert .col-sm-4{width:auto!important}
+.bts .col-lg-12 input[type='submit'],.bts .col-lg-12 a.wera{margin-bottom:0!important}
+#search{margin-bottom:10px!important}
+.mghji{margin-bottom:50px!important}
+.mgb0{ margin-bottom:0 !important;}
+.btse .col-lg-4:last-child{ margin-bottom:60px !important;}
+#addmap_btn, #viewAdministrator{ margin-bottom:40px !important;}
+.pw_prompt{ width:auto !important;}
+.bst{ border:none !important;}
+.index_table, .tyt{ float:none !important; width:100% !important;}
+.mgyu{ margin-top:20% !important;}
+table.ctabel1, #add_central{ margin-bottom:40px !important;}
+strong.txt-style-3{ padding-left:10px; margin-top:-10px !important;}
+.dash-button, a.yl-bt{ font-size:11px !important;}
+.sv1{ margin-top:25% !important;}
+.mgt0 .col-lg-12 button, #submit1, #map, #addDriver, .sv1 .col-lg-12 .dash-button{ margin-bottom:40px !important;}
+.mis1{ margin-top:20px !important;}
+.field_wrapper ul .s4a, .field_wrapper div .s4a{ width:200px !important;}
+.row .col-md-5 a.dash-button{ margin-bottom:10px !important;}
+}
+
+
+@media (min-width: 1400px) {
+.i100 img{    height: 347px;}
+.wht_pd10 .mg10 {
+    margin-top: 7px !important;
+    padding-bottom: 6px;
+}
+.wht_pd10 {height: 473px;}
+	
+	}

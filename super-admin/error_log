@@ -1,0 +1,222 @@
+[28-Dec-2016 12:47:04 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/class/class.connect.php on line 24
+[28-Dec-2016 18:17:04 Asia/Kolkata] PHP Notice:  Undefined index: zoneArea in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/footer.php on line 38
+[29-Dec-2016 09:35:10 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/class/class.connect.php on line 24
+[29-Dec-2016 15:05:10 Asia/Kolkata] PHP Notice:  Undefined index: zoneArea in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/footer.php on line 38
+[29-Dec-2016 12:40:06 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/class/class.connect.php on line 24
+[29-Dec-2016 18:10:06 Asia/Kolkata] PHP Notice:  Undefined index: zoneArea in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/footer.php on line 38
+[19-Jan-2017 10:07:09 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/class/class.connect.php on line 24
+[19-Jan-2017 15:37:09 Asia/Kolkata] PHP Notice:  Undefined index: zoneArea in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/footer.php on line 38
+[19-Jan-2017 10:07:12 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/class/class.connect.php on line 24
+[19-Jan-2017 15:37:12 Asia/Kolkata] PHP Notice:  Undefined index: txtname in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/administrators.php on line 26
+[19-Jan-2017 15:37:12 Asia/Kolkata] PHP Notice:  Undefined variable: fname in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/administrators.php on line 68
+[19-Jan-2017 15:37:12 Asia/Kolkata] PHP Notice:  Undefined index: zoneArea in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/footer.php on line 38
+[19-Jan-2017 14:14:53 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/class/class.connect.php on line 24
+[19-Jan-2017 19:44:53 Asia/Kolkata] PHP Notice:  Undefined index: zoneArea in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/footer.php on line 38
+[19-Jan-2017 14:18:21 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/class/class.connect.php on line 24
+[19-Jan-2017 19:48:21 Asia/Kolkata] PHP Notice:  Undefined index: zoneArea in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/footer.php on line 38
+[19-Jan-2017 14:18:33 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/class/class.connect.php on line 24
+[19-Jan-2017 19:48:33 Asia/Kolkata] PHP Notice:  Undefined index: zoneArea in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/footer.php on line 38
+[30-Jan-2017 11:02:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/class/class.connect.php on line 24
+[30-Jan-2017 16:32:56 Asia/Kolkata] PHP Notice:  Undefined index: zoneArea in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/footer.php on line 38
+[30-Jan-2017 11:03:01 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/class/class.connect.php on line 24
+[30-Jan-2017 16:33:01 Asia/Kolkata] PHP Notice:  Undefined index: txtname in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/administrators.php on line 26
+[30-Jan-2017 16:33:01 Asia/Kolkata] PHP Notice:  Undefined variable: fname in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/administrators.php on line 68
+[30-Jan-2017 16:33:02 Asia/Kolkata] PHP Notice:  Undefined index: zoneArea in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/footer.php on line 38
+[30-Jan-2017 11:03:39 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/class/class.connect.php on line 24
+[30-Jan-2017 16:33:39 Asia/Kolkata] PHP Notice:  Undefined index: zoneArea in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/footer.php on line 38
+[30-Jan-2017 11:03:47 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/class/class.connect.php on line 24
+[30-Jan-2017 16:33:47 Asia/Kolkata] PHP Notice:  Undefined index: zoneArea in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/footer.php on line 38
+[31-Jan-2017 09:15:13 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/class/class.connect.php on line 24
+[31-Jan-2017 14:45:13 Asia/Kolkata] PHP Notice:  Undefined index: zoneArea in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/footer.php on line 38
+[31-Jan-2017 09:16:41 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/class/class.connect.php on line 24
+[31-Jan-2017 14:46:41 Asia/Kolkata] PHP Notice:  Undefined index: zoneArea in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/footer.php on line 38
+[01-Feb-2017 08:47:13 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/class/class.connect.php on line 24
+[01-Feb-2017 14:17:13 Asia/Kolkata] PHP Notice:  Undefined index: zoneArea in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/footer.php on line 38
+[01-Feb-2017 08:47:20 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/class/class.connect.php on line 24
+[01-Feb-2017 14:17:20 Asia/Kolkata] PHP Notice:  Undefined variable: zone_title in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 36
+[01-Feb-2017 14:17:20 Asia/Kolkata] PHP Notice:  Undefined variable: zone_title in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 36
+[01-Feb-2017 14:17:20 Asia/Kolkata] PHP Notice:  Undefined variable: zone_title in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 36
+[01-Feb-2017 14:17:20 Asia/Kolkata] PHP Notice:  Undefined variable: zone_title in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 36
+[01-Feb-2017 14:17:20 Asia/Kolkata] PHP Notice:  Undefined variable: zone_title in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 36
+[01-Feb-2017 14:17:20 Asia/Kolkata] PHP Notice:  Undefined variable: zone_title in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 36
+[01-Feb-2017 14:17:20 Asia/Kolkata] PHP Notice:  Undefined variable: zone_title in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 36
+[01-Feb-2017 14:17:20 Asia/Kolkata] PHP Notice:  Undefined variable: zone_title in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 36
+[01-Feb-2017 14:17:20 Asia/Kolkata] PHP Notice:  Undefined variable: zone_title in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 36
+[01-Feb-2017 14:17:20 Asia/Kolkata] PHP Notice:  Undefined variable: zone_title in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 36
+[01-Feb-2017 14:17:20 Asia/Kolkata] PHP Notice:  Undefined variable: zone_title in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 36
+[01-Feb-2017 14:17:20 Asia/Kolkata] PHP Notice:  Undefined variable: zone_title in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 36
+[01-Feb-2017 14:17:20 Asia/Kolkata] PHP Notice:  Undefined variable: zone_name in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 56
+[01-Feb-2017 14:17:20 Asia/Kolkata] PHP Notice:  Undefined variable: zone_name in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 56
+[01-Feb-2017 14:17:20 Asia/Kolkata] PHP Notice:  Undefined variable: zone_name in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 56
+[01-Feb-2017 14:17:20 Asia/Kolkata] PHP Notice:  Undefined variable: zone_name in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 56
+[01-Feb-2017 14:17:20 Asia/Kolkata] PHP Notice:  Undefined variable: zone_name in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 56
+[01-Feb-2017 14:17:20 Asia/Kolkata] PHP Notice:  Undefined variable: zone_name in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 56
+[01-Feb-2017 14:17:20 Asia/Kolkata] PHP Notice:  Undefined variable: zone_name in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 56
+[01-Feb-2017 14:17:20 Asia/Kolkata] PHP Notice:  Undefined variable: zone_name in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 56
+[01-Feb-2017 14:17:20 Asia/Kolkata] PHP Notice:  Undefined variable: zone_name in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 56
+[01-Feb-2017 14:17:20 Asia/Kolkata] PHP Notice:  Undefined variable: zone_name in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 56
+[01-Feb-2017 14:17:20 Asia/Kolkata] PHP Notice:  Undefined variable: zoneTitle in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 105
+[01-Feb-2017 14:17:20 Asia/Kolkata] PHP Notice:  Undefined variable: adminName in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 105
+[01-Feb-2017 14:17:20 Asia/Kolkata] PHP Notice:  Undefined index: login_status in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 114
+[01-Feb-2017 14:17:20 Asia/Kolkata] PHP Notice:  Undefined index: login_status in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 114
+[01-Feb-2017 14:17:20 Asia/Kolkata] PHP Notice:  Undefined index: login_status in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 114
+[01-Feb-2017 14:17:20 Asia/Kolkata] PHP Notice:  Undefined index: login_status in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 114
+[01-Feb-2017 14:17:20 Asia/Kolkata] PHP Notice:  Undefined index: login_status in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 114
+[01-Feb-2017 14:17:20 Asia/Kolkata] PHP Notice:  Undefined index: login_status in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 114
+[01-Feb-2017 14:17:20 Asia/Kolkata] PHP Notice:  Undefined index: login_status in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 114
+[01-Feb-2017 14:17:20 Asia/Kolkata] PHP Notice:  Undefined index: login_status in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 114
+[01-Feb-2017 14:17:20 Asia/Kolkata] PHP Notice:  Undefined index: login_status in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 114
+[01-Feb-2017 14:17:20 Asia/Kolkata] PHP Notice:  Undefined index: login_status in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 114
+[01-Feb-2017 14:17:20 Asia/Kolkata] PHP Notice:  Undefined index: login_status in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 114
+[01-Feb-2017 14:17:20 Asia/Kolkata] PHP Notice:  Undefined index: login_status in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 114
+[01-Feb-2017 14:17:20 Asia/Kolkata] PHP Notice:  Undefined index: zoneArea in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/footer.php on line 38
+[01-Feb-2017 08:47:26 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/class/class.connect.php on line 24
+[01-Feb-2017 14:17:26 Asia/Kolkata] PHP Notice:  Undefined index: zoneArea in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/footer.php on line 38
+[01-Feb-2017 08:47:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/class/class.connect.php on line 24
+[01-Feb-2017 14:17:42 Asia/Kolkata] PHP Notice:  Undefined index: txtname in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/administrators.php on line 26
+[01-Feb-2017 14:17:42 Asia/Kolkata] PHP Notice:  Undefined variable: fname in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/administrators.php on line 68
+[01-Feb-2017 14:17:42 Asia/Kolkata] PHP Notice:  Undefined index: zoneArea in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/footer.php on line 38
+[01-Feb-2017 08:47:46 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/class/class.connect.php on line 24
+[01-Feb-2017 14:17:46 Asia/Kolkata] PHP Notice:  Undefined index: zoneArea in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/footer.php on line 38
+[01-Feb-2017 08:47:46 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/class/class.connect.php on line 24
+[01-Feb-2017 14:17:46 Asia/Kolkata] PHP Notice:  Undefined variable: zone_title in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 36
+[01-Feb-2017 14:17:46 Asia/Kolkata] PHP Notice:  Undefined variable: zone_title in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 36
+[01-Feb-2017 14:17:46 Asia/Kolkata] PHP Notice:  Undefined variable: zone_title in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 36
+[01-Feb-2017 14:17:46 Asia/Kolkata] PHP Notice:  Undefined variable: zone_title in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 36
+[01-Feb-2017 14:17:46 Asia/Kolkata] PHP Notice:  Undefined variable: zone_title in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 36
+[01-Feb-2017 14:17:46 Asia/Kolkata] PHP Notice:  Undefined variable: zone_title in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 36
+[01-Feb-2017 14:17:46 Asia/Kolkata] PHP Notice:  Undefined variable: zone_title in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 36
+[01-Feb-2017 14:17:46 Asia/Kolkata] PHP Notice:  Undefined variable: zone_title in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 36
+[01-Feb-2017 14:17:46 Asia/Kolkata] PHP Notice:  Undefined variable: zone_title in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 36
+[01-Feb-2017 14:17:46 Asia/Kolkata] PHP Notice:  Undefined variable: zone_title in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 36
+[01-Feb-2017 14:17:46 Asia/Kolkata] PHP Notice:  Undefined variable: zone_title in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 36
+[01-Feb-2017 14:17:46 Asia/Kolkata] PHP Notice:  Undefined variable: zone_title in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 36
+[01-Feb-2017 14:17:46 Asia/Kolkata] PHP Notice:  Undefined variable: zone_name in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 56
+[01-Feb-2017 14:17:46 Asia/Kolkata] PHP Notice:  Undefined variable: zone_name in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 56
+[01-Feb-2017 14:17:46 Asia/Kolkata] PHP Notice:  Undefined variable: zone_name in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 56
+[01-Feb-2017 14:17:46 Asia/Kolkata] PHP Notice:  Undefined variable: zone_name in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 56
+[01-Feb-2017 14:17:46 Asia/Kolkata] PHP Notice:  Undefined variable: zone_name in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 56
+[01-Feb-2017 14:17:46 Asia/Kolkata] PHP Notice:  Undefined variable: zone_name in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 56
+[01-Feb-2017 14:17:46 Asia/Kolkata] PHP Notice:  Undefined variable: zone_name in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 56
+[01-Feb-2017 14:17:46 Asia/Kolkata] PHP Notice:  Undefined variable: zone_name in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 56
+[01-Feb-2017 14:17:46 Asia/Kolkata] PHP Notice:  Undefined variable: zone_name in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 56
+[01-Feb-2017 14:17:46 Asia/Kolkata] PHP Notice:  Undefined variable: zone_name in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 56
+[01-Feb-2017 14:17:46 Asia/Kolkata] PHP Notice:  Undefined variable: zoneTitle in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 105
+[01-Feb-2017 14:17:46 Asia/Kolkata] PHP Notice:  Undefined variable: adminName in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 105
+[01-Feb-2017 14:17:46 Asia/Kolkata] PHP Notice:  Undefined index: login_status in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 114
+[01-Feb-2017 14:17:46 Asia/Kolkata] PHP Notice:  Undefined index: login_status in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 114
+[01-Feb-2017 14:17:46 Asia/Kolkata] PHP Notice:  Undefined index: login_status in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 114
+[01-Feb-2017 14:17:46 Asia/Kolkata] PHP Notice:  Undefined index: login_status in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 114
+[01-Feb-2017 14:17:46 Asia/Kolkata] PHP Notice:  Undefined index: login_status in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 114
+[01-Feb-2017 14:17:46 Asia/Kolkata] PHP Notice:  Undefined index: login_status in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 114
+[01-Feb-2017 14:17:46 Asia/Kolkata] PHP Notice:  Undefined index: login_status in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 114
+[01-Feb-2017 14:17:46 Asia/Kolkata] PHP Notice:  Undefined index: login_status in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 114
+[01-Feb-2017 14:17:46 Asia/Kolkata] PHP Notice:  Undefined index: login_status in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 114
+[01-Feb-2017 14:17:46 Asia/Kolkata] PHP Notice:  Undefined index: login_status in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 114
+[01-Feb-2017 14:17:46 Asia/Kolkata] PHP Notice:  Undefined index: login_status in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 114
+[01-Feb-2017 14:17:46 Asia/Kolkata] PHP Notice:  Undefined index: login_status in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 114
+[01-Feb-2017 14:17:46 Asia/Kolkata] PHP Notice:  Undefined index: zoneArea in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/footer.php on line 38
+[01-Feb-2017 08:47:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/class/class.connect.php on line 24
+[01-Feb-2017 14:17:54 Asia/Kolkata] PHP Notice:  Undefined index: zoneArea in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/footer.php on line 38
+[01-Feb-2017 08:48:02 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/class/class.connect.php on line 24
+[01-Feb-2017 14:18:02 Asia/Kolkata] PHP Notice:  Undefined index: txtname in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/administrators.php on line 26
+[01-Feb-2017 14:18:02 Asia/Kolkata] PHP Notice:  Undefined variable: fname in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/administrators.php on line 68
+[01-Feb-2017 14:18:02 Asia/Kolkata] PHP Notice:  Undefined index: zoneArea in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/footer.php on line 38
+[01-Feb-2017 08:48:06 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/class/class.connect.php on line 24
+[01-Feb-2017 14:18:06 Asia/Kolkata] PHP Notice:  Undefined index: zoneArea in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/footer.php on line 38
+[01-Feb-2017 08:48:15 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/class/class.connect.php on line 24
+[01-Feb-2017 14:18:15 Asia/Kolkata] PHP Notice:  Undefined index: from_date in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/log.php on line 23
+[01-Feb-2017 14:18:15 Asia/Kolkata] PHP Notice:  Undefined index: to_date in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/log.php on line 29
+[01-Feb-2017 14:18:15 Asia/Kolkata] PHP Notice:  Undefined variable: date in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/log.php on line 71
+[01-Feb-2017 14:18:15 Asia/Kolkata] PHP Notice:  Undefined variable: date in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/log.php on line 129
+[01-Feb-2017 14:18:15 Asia/Kolkata] PHP Notice:  Undefined index: zoneArea in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/footer.php on line 38
+[01-Feb-2017 08:48:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/class/class.connect.php on line 24
+[01-Feb-2017 14:18:29 Asia/Kolkata] PHP Notice:  Undefined index: from_date in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/log.php on line 23
+[01-Feb-2017 14:18:29 Asia/Kolkata] PHP Notice:  Undefined index: to_date in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/log.php on line 29
+[01-Feb-2017 14:18:29 Asia/Kolkata] PHP Notice:  Undefined variable: date in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/log.php on line 71
+[01-Feb-2017 14:18:29 Asia/Kolkata] PHP Notice:  Undefined variable: date in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/log.php on line 129
+[01-Feb-2017 14:18:29 Asia/Kolkata] PHP Notice:  Undefined index: zoneArea in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/footer.php on line 38
+[03-Feb-2017 03:30:04 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/class/class.connect.php on line 24
+[03-Feb-2017 09:00:04 Asia/Kolkata] PHP Notice:  Undefined index: zoneArea in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/footer.php on line 38
+[03-Feb-2017 03:30:09 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/class/class.connect.php on line 24
+[03-Feb-2017 09:00:09 Asia/Kolkata] PHP Notice:  Undefined index: from_date in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/log.php on line 23
+[03-Feb-2017 09:00:09 Asia/Kolkata] PHP Notice:  Undefined index: to_date in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/log.php on line 29
+[03-Feb-2017 09:00:09 Asia/Kolkata] PHP Notice:  Undefined variable: date in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/log.php on line 71
+[03-Feb-2017 09:00:09 Asia/Kolkata] PHP Notice:  Undefined variable: date in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/log.php on line 129
+[03-Feb-2017 09:00:09 Asia/Kolkata] PHP Notice:  Undefined index: zoneArea in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/footer.php on line 38
+[09-Mar-2017 12:24:15 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/class/class.connect.php on line 24
+[09-Mar-2017 17:54:15 Asia/Kolkata] PHP Notice:  Undefined index: zoneArea in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/footer.php on line 38
+[09-Mar-2017 12:24:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/class/class.connect.php on line 24
+[09-Mar-2017 17:54:20 Asia/Kolkata] PHP Notice:  Undefined variable: zone_title in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 36
+[09-Mar-2017 17:54:20 Asia/Kolkata] PHP Notice:  Undefined variable: zone_title in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 36
+[09-Mar-2017 17:54:20 Asia/Kolkata] PHP Notice:  Undefined variable: zone_title in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 36
+[09-Mar-2017 17:54:20 Asia/Kolkata] PHP Notice:  Undefined variable: zone_title in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 36
+[09-Mar-2017 17:54:20 Asia/Kolkata] PHP Notice:  Undefined variable: zone_title in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 36
+[09-Mar-2017 17:54:20 Asia/Kolkata] PHP Notice:  Undefined variable: zone_title in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 36
+[09-Mar-2017 17:54:20 Asia/Kolkata] PHP Notice:  Undefined variable: zone_title in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 36
+[09-Mar-2017 17:54:20 Asia/Kolkata] PHP Notice:  Undefined variable: zone_name in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 56
+[09-Mar-2017 17:54:20 Asia/Kolkata] PHP Notice:  Undefined variable: zone_name in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 56
+[09-Mar-2017 17:54:20 Asia/Kolkata] PHP Notice:  Undefined variable: zone_name in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 56
+[09-Mar-2017 17:54:20 Asia/Kolkata] PHP Notice:  Undefined variable: zone_name in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 56
+[09-Mar-2017 17:54:20 Asia/Kolkata] PHP Notice:  Undefined variable: zone_name in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 56
+[09-Mar-2017 17:54:20 Asia/Kolkata] PHP Notice:  Undefined variable: zone_name in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 56
+[09-Mar-2017 17:54:20 Asia/Kolkata] PHP Notice:  Undefined variable: zoneTitle in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 105
+[09-Mar-2017 17:54:20 Asia/Kolkata] PHP Notice:  Undefined variable: adminName in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 105
+[09-Mar-2017 17:54:20 Asia/Kolkata] PHP Notice:  Undefined index: login_status in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 114
+[09-Mar-2017 17:54:20 Asia/Kolkata] PHP Notice:  Undefined index: login_status in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 114
+[09-Mar-2017 17:54:20 Asia/Kolkata] PHP Notice:  Undefined index: login_status in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 114
+[09-Mar-2017 17:54:20 Asia/Kolkata] PHP Notice:  Undefined index: login_status in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 114
+[09-Mar-2017 17:54:20 Asia/Kolkata] PHP Notice:  Undefined index: login_status in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 114
+[09-Mar-2017 17:54:20 Asia/Kolkata] PHP Notice:  Undefined index: login_status in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 114
+[09-Mar-2017 17:54:20 Asia/Kolkata] PHP Notice:  Undefined index: login_status in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 114
+[09-Mar-2017 17:54:20 Asia/Kolkata] PHP Notice:  Undefined index: zoneArea in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/footer.php on line 38
+[09-Mar-2017 12:24:23 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/class/class.connect.php on line 24
+[09-Mar-2017 17:54:23 Asia/Kolkata] PHP Notice:  Undefined index: txtname in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/administrators.php on line 26
+[09-Mar-2017 17:54:23 Asia/Kolkata] PHP Notice:  Undefined variable: fname in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/administrators.php on line 68
+[09-Mar-2017 17:54:23 Asia/Kolkata] PHP Notice:  Undefined index: zoneArea in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/footer.php on line 38
+[09-Mar-2017 12:24:28 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/class/class.connect.php on line 24
+[09-Mar-2017 17:54:28 Asia/Kolkata] PHP Notice:  Undefined index: zoneArea in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/footer.php on line 38
+[09-Mar-2017 12:24:30 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/class/class.connect.php on line 24
+[09-Mar-2017 17:54:30 Asia/Kolkata] PHP Notice:  Undefined index: from_date in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/log.php on line 23
+[09-Mar-2017 17:54:30 Asia/Kolkata] PHP Notice:  Undefined index: to_date in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/log.php on line 29
+[09-Mar-2017 17:54:30 Asia/Kolkata] PHP Notice:  Undefined variable: date in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/log.php on line 71
+[09-Mar-2017 17:54:30 Asia/Kolkata] PHP Notice:  Undefined variable: date in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/log.php on line 129
+[09-Mar-2017 17:54:30 Asia/Kolkata] PHP Notice:  Undefined index: zoneArea in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/footer.php on line 38
+[09-Mar-2017 12:24:35 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/class/class.connect.php on line 24
+[09-Mar-2017 17:54:35 Asia/Kolkata] PHP Notice:  Undefined variable: zone_title in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 36
+[09-Mar-2017 17:54:35 Asia/Kolkata] PHP Notice:  Undefined variable: zone_title in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 36
+[09-Mar-2017 17:54:35 Asia/Kolkata] PHP Notice:  Undefined variable: zone_title in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 36
+[09-Mar-2017 17:54:35 Asia/Kolkata] PHP Notice:  Undefined variable: zone_title in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 36
+[09-Mar-2017 17:54:35 Asia/Kolkata] PHP Notice:  Undefined variable: zone_title in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 36
+[09-Mar-2017 17:54:35 Asia/Kolkata] PHP Notice:  Undefined variable: zone_title in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 36
+[09-Mar-2017 17:54:35 Asia/Kolkata] PHP Notice:  Undefined variable: zone_title in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 36
+[09-Mar-2017 17:54:35 Asia/Kolkata] PHP Notice:  Undefined variable: zone_name in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 56
+[09-Mar-2017 17:54:35 Asia/Kolkata] PHP Notice:  Undefined variable: zone_name in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 56
+[09-Mar-2017 17:54:35 Asia/Kolkata] PHP Notice:  Undefined variable: zone_name in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 56
+[09-Mar-2017 17:54:35 Asia/Kolkata] PHP Notice:  Undefined variable: zone_name in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 56
+[09-Mar-2017 17:54:35 Asia/Kolkata] PHP Notice:  Undefined variable: zone_name in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 56
+[09-Mar-2017 17:54:35 Asia/Kolkata] PHP Notice:  Undefined variable: zone_name in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 56
+[09-Mar-2017 17:54:35 Asia/Kolkata] PHP Notice:  Undefined variable: zoneTitle in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 105
+[09-Mar-2017 17:54:35 Asia/Kolkata] PHP Notice:  Undefined variable: adminName in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 105
+[09-Mar-2017 17:54:35 Asia/Kolkata] PHP Notice:  Undefined index: login_status in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 114
+[09-Mar-2017 17:54:35 Asia/Kolkata] PHP Notice:  Undefined index: login_status in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 114
+[09-Mar-2017 17:54:35 Asia/Kolkata] PHP Notice:  Undefined index: login_status in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 114
+[09-Mar-2017 17:54:35 Asia/Kolkata] PHP Notice:  Undefined index: login_status in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 114
+[09-Mar-2017 17:54:35 Asia/Kolkata] PHP Notice:  Undefined index: login_status in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 114
+[09-Mar-2017 17:54:35 Asia/Kolkata] PHP Notice:  Undefined index: login_status in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 114
+[09-Mar-2017 17:54:35 Asia/Kolkata] PHP Notice:  Undefined index: login_status in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/work-zone.php on line 114
+[09-Mar-2017 17:54:35 Asia/Kolkata] PHP Notice:  Undefined index: zoneArea in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/footer.php on line 38
+[23-Mar-2017 13:23:25 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/class/class.connect.php on line 24
+[23-Mar-2017 18:53:25 Asia/Kolkata] PHP Notice:  Undefined index: zoneArea in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/footer.php on line 38
+[23-Mar-2017 13:23:27 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/class/class.connect.php on line 24
+[23-Mar-2017 18:53:27 Asia/Kolkata] PHP Notice:  Undefined index: txtname in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/administrators.php on line 26
+[23-Mar-2017 18:53:27 Asia/Kolkata] PHP Notice:  Undefined variable: fname in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/super-admin/administrators.php on line 68
+[23-Mar-2017 18:53:27 Asia/Kolkata] PHP Notice:  Undefined index: zoneArea in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/footer.php on line 38
+[23-Mar-2017 13:23:28 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/class/class.connect.php on line 24
+[23-Mar-2017 18:53:28 Asia/Kolkata] PHP Notice:  Undefined index: zoneArea in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/footer.php on line 38
+[28-Apr-2017 06:00:28 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/class/class.connect.php on line 24
+[28-Apr-2017 06:00:28 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/class/class.connect.php on line 24
+[28-Apr-2017 06:00:28 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/class/class.connect.php on line 24
+[28-Apr-2017 12:09:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/class/class.connect.php on line 24
+[28-Apr-2017 12:09:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/class/class.connect.php on line 24
+[28-Apr-2017 12:09:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/truckhvantage/public_html/Projects-Work/Hi-taxi/include/class/class.connect.php on line 24
